@@ -12,5 +12,6 @@ config.window_background_opacity = 1.0
 
 -- Misc
 config.automatically_reload_config = true
+config.window_close_confirmation = "NeverPrompt"
 
 return config
