@@ -1,6 +1,7 @@
 font-size = 13
 font-family = JetBrains Mono SemiBold
 theme = catppuccin-mocha
+mouse-hide-while-typing = true
 macos-titlebar-style = hidden
 window-padding-y = 6,0
 window-padding-x = 6
