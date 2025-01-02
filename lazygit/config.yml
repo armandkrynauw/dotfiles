@@ -1,0 +1,4 @@
+# Background refreshes
+refresher:
+  # File/submodule refresh interval in seconds.
+  refreshInterval: 3
