@@ -1,7 +1,23 @@
+# Theme
+theme = catppuccin-mocha
+
+# Font
 font-size = 12.5
 font-family = JetBrains Mono SemiBold
-theme = catppuccin-mocha
+
+# General
 mouse-hide-while-typing = true
-macos-titlebar-style = hidden
+
+# Window
 window-padding-y = 6,0
 window-padding-x = 6
+
+# MacOS
+macos-titlebar-style = hidden
+
+macos-icon = custom-style
+macos-icon-ghost-color = #ea76cb
+macos-icon-screen-color = #ccd0da
+
+macos-auto-secure-input = true
+macos-secure-input-indication = true
